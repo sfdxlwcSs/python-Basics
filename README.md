@@ -6,13 +6,13 @@
 
 <h2>🛠 Skills & Technologies</h2>
 
-<h3>Learning Phase:🏫</h3>
+<h3>🏫Learning Phase:</h3>
 <ul>
   <li><strong>Python:</strong> Exploring data analysis, automation, and web development capabilities.</li>
   <li><strong>MySQL:</strong> Learning to design, manage, and optimize databases for backend processes.</li>
 </ul>
 
-<h3>Expertise:✔</h3>
+<h3>✔Expertise:</h3>
 <ul>
 <li>Salesforce</li>
   <li><strong>Salesforce LWC (Lightning Web Components):</strong> Building dynamic, responsive components using Salesforce's LWC framework.</li>

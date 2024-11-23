@@ -1,0 +1,9 @@
+Ord_ID	Cust_ID	Ord_quantity	Sales	Ord_priority
+Ord_10	Cust_1	4	3342	Medium
+Ord_14	Cust_2			
+Ord_25	Cust_3	3	455.6	Low
+Ord_29	Cust_4	14	3389.1	High
+Ord_34	Cust_5	7	4355.34	Low
+Ord_52	Cust_6	2	163.09	High
+Ord_71	Cust_11	1	145.82	Low
+Ord_94	Cust_8	6	3311.272	Medium

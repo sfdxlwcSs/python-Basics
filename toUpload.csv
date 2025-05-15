@@ -1,0 +1,149 @@
+Id,Name,Combination__c,Is_Active__c,Request_Reason__c,Request_Sub_Reason__c,Request_Type__c,Queue_Name__c,Chat_Queue__c
+a0cQJ000000aDY8YAM,CQA-000295,HR-HRC - Questions-Compensation - AIP/SIP Plan Review,True,HR,HRC - Questions,Compensation - AIP/SIP Plan Review,COE - Comp CoE,Tier1 Generalist-HR
+a0cQJ000000aDY9YAM,CQA-000296,HR-HRC - Questions-Compensation - Employee Market Analysis Request,True,HR,HRC - Questions,Compensation - Employee Market Analysis Request,COE - Comp CoE,Tier1 Generalist-HR
+a0cQJ000000aDYAYA2,CQA-000297,HR-HRC - Questions-Compensation - Job Analysis Request,True,HR,HRC - Questions,Compensation - Job Analysis Request,COE - Comp CoE,Tier1 Generalist-HR
+a0cQJ000000aDYBYA2,CQA-000298,HR-HRC - Questions-Compensation - LTIP Request,True,HR,HRC - Questions,Compensation - LTIP Request,COE - Exec Comp,Tier1 Generalist-HR
+a0cQJ000000aDYCYA2,CQA-000299,HR-HRC - Questions-Compensation - Market Data Request,True,HR,HRC - Questions,Compensation - Market Data Request,COE - Comp CoE,Tier1 Generalist-HR
+a0cQJ000000aDZpYAM,CQA-000300,My Career-Dover Enterprise Learning-Completion Credit,True,My Career,Dover Enterprise Learning,Completion Credit,Tier2 Generalist-LMS,Tier1 Generalist-HR
+a0cQJ000000aDZqYAM,CQA-000301,HR-HRC - Employee/Requisitions/Org Data Requests-Employee Data Changes,True,HR,HRC - Employee/Requisitions/Org Data Requests,Employee Data Changes,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDZrYAM,CQA-000302,HR-HRC - Questions-Talent - Succession,True,HR,HRC - Questions,Talent - Succession,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZsYAM,CQA-000303,HR-HRC - Questions-Talent - Other,True,HR,HRC - Questions,Talent - Other,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZtYAM,CQA-000304,HR-HRC - Questions-Employee & Organizational Data,True,HR,HRC - Questions,Employee & Organizational Data,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZuYAM,CQA-000305,HR-HRC - Questions-Login,True,HR,HRC - Questions,Login,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZvYAM,CQA-000306,HR-HRC - Questions-General Inquiry,True,HR,HRC - Questions,General Inquiry,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZwYAM,CQA-000307,HR-HRC - Questions-Learning,True,HR,HRC - Questions,Learning,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZxYAM,CQA-000308,HR-HRC - Questions-Recruiting - Recruiting and Offers,True,HR,HRC - Questions,Recruiting - Recruiting and Offers,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZyYAM,CQA-000309,HR-HRC - Questions-Recruiting- Pre-employment Screening,True,HR,HRC - Questions,Recruiting- Pre-employment Screening,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDZzYAM,CQA-000310,HR-HRC - Questions-Recruiting - Onboarding,True,HR,HRC - Questions,Recruiting - Onboarding,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa0YAE,CQA-000311,HR-HRC - Questions-Recruiting - Manage Pending Hires,True,HR,HRC - Questions,Recruiting - Manage Pending Hires,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa1YAE,CQA-000312,HR-HRC - Employee/Requisitions/Org Data Requests-Recruiting Requisition Changes,True,HR,HRC - Employee/Requisitions/Org Data Requests,Recruiting Requisition Changes,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDa2YAE,CQA-000313,HR-HRC - Questions-Workflows & Approvals,True,HR,HRC - Questions,Workflows & Approvals,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa3YAE,CQA-000314,HR-HRC - Workflows/Approvals Requests-Recruiting Requisition Approval Reroute,True,HR,HRC - Workflows/Approvals Requests,Recruiting Requisition Approval Reroute,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa4YAE,CQA-000315,HR-HRC - Workflows/Approvals Requests-Onboarding & 1-9 Activity Reassignment,True,HR,HRC - Workflows/Approvals Requests,Onboarding & 1-9 Activity Reassignment,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa5YAE,CQA-000316,HR-HRC - Workflows/Approvals Requests-Compensation Form Reroute,True,HR,HRC - Workflows/Approvals Requests,Compensation Form Reroute,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa6YAE,CQA-000317,HR-HRC - Workflows/Approvals Requests-Talent Form Reroute,True,HR,HRC - Workflows/Approvals Requests,Talent Form Reroute,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa7YAE,CQA-000318,HR-HRC - Workflows/Approvals Requests-Workflow Approval Reroute,True,HR,HRC - Workflows/Approvals Requests,Workflow Approval Reroute,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa8YAE,CQA-000319,HR-HRC - Workflows/Approvals Requests-Workflow Escalation (Manager's Manager),True,HR,HRC - Workflows/Approvals Requests,Workflow Escalation (Manager's Manager),Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDa9YAE,CQA-000320,HR-HRC - Workflows/Approvals Requests-Recruiting Offer Approval Reroute,True,HR,HRC - Workflows/Approvals Requests,Recruiting Offer Approval Reroute,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDaAYAU,CQA-000321,HR-HRC - Workflows/Approvals Requests-Other Workflow & Approvals Reroute,True,HR,HRC - Workflows/Approvals Requests,Other Workflow & Approvals Reroute,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDaBYAU,CQA-000322,HR-Time & Attendance - e-Time Requests-Attendance Tracking,True,HR,Time & Attendance - e-Time Requests,Attendance Tracking,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaCYAU,CQA-000323,HR-HRC - Employee/Requisitions/Org Data Requests-Learning Management System Data Changes,True,HR,HRC - Employee/Requisitions/Org Data Requests,Learning Management System Data Changes,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDaDYAU,CQA-000324,HR-Time & Attendance - e-Time Requests-Time Card Edits,True,HR,Time & Attendance - e-Time Requests,Time Card Edits,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaEYAU,CQA-000325,HR-Time & Attendance - e-Time Requests-Accruals Balance,True,HR,Time & Attendance - e-Time Requests,Accruals Balance,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaFYAU,CQA-000326,HR-Payroll - Deductions Requests-Safety Boots,True,HR,Payroll - Deductions Requests,Safety Boots,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaGYAU,CQA-000327,HR-Payroll - Deductions Requests-Uniform,True,HR,Payroll - Deductions Requests,Uniform,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaHYAU,CQA-000328,HR-Payroll - Deductions Requests-Union Dues,True,HR,Payroll - Deductions Requests,Union Dues,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaIYAU,CQA-000329,HR-Payroll - Deductions Requests-401k Loan Catchup (DBS Use Only),True,HR,Payroll - Deductions Requests,401k Loan Catchup (DBS Use Only),Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaJYAU,CQA-000330,HR-Payroll - Deductions Requests-Miscellaneous,True,HR,Payroll - Deductions Requests,Miscellaneous,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaKYAU,CQA-000331,HR-Payroll - Deductions Requests-United Way,True,HR,Payroll - Deductions Requests,United Way,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaLYAU,CQA-000332,HR-Payroll - Garnishment Requests-Garnishments,True,HR,Payroll - Garnishment Requests,Garnishments,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaMYAU,CQA-000333,HR-Payroll - Garnishment Requests-Child Support,True,HR,Payroll - Garnishment Requests,Child Support,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaNYAU,CQA-000334,HR-HRC - Employee/Requisitions/Org Data Requests-Organizational Data Changes,True,HR,HRC - Employee/Requisitions/Org Data Requests,Organizational Data Changes,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDaOYAU,CQA-000335,HR-Payroll - Questions-Deductions,True,HR,Payroll - Questions,Deductions,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaPYAU,CQA-000336,HR-Payroll - Questions-Earnings & Reimbursements,True,HR,Payroll - Questions,Earnings & Reimbursements,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaQYAU,CQA-000337,HR-Payroll - Questions-Garnishments,True,HR,Payroll - Questions,Garnishments,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaRYAU,CQA-000338,HR-Payroll - Questions-Non-Cash Earnings,True,HR,Payroll - Questions,Non-Cash Earnings,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaSYAU,CQA-000339,HR-Payroll - Questions-Taxes - Employee,True,HR,Payroll - Questions,Taxes - Employee,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaTYAU,CQA-000340,HR-Payroll - Questions-Taxes - Notices,True,HR,Payroll - Questions,Taxes - Notices,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaUYAU,CQA-000341,HR-Payroll - Questions-Termination Final Payout,True,HR,Payroll - Questions,Termination Final Payout,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaVYAU,CQA-000342,HR-Payroll - Non-HR Central Earnings & Reimbursements Requests-Vacation & PTO Payout (Cash Out),True,HR,Payroll - Non-HR Central Earnings & Reimbursements Requests,Vacation & PTO Payout (Cash Out),Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaWYAU,CQA-000343,HR-Leave of Absence - Paid Requests-STD and Parental Leave,True,HR,Leave of Absence - Paid Requests,STD and Parental Leave,Tier2 Specialist-LOA Matrix Admin,Tier1 Generalist-HR
+a0cQJ000000aDaXYAU,CQA-000344,HR-Leave of Absence - Paid Requests-Other Paid Leave,True,HR,Leave of Absence - Paid Requests,Other Paid Leave,Tier2 Specialist-LOA Matrix Admin,Tier1 Generalist-HR
+a0cQJ000000aDaYYAU,CQA-000345,HR-HRC - Employee/Requisitions/Org Data Requests-Start or Termination Date Changes,True,HR,HRC - Employee/Requisitions/Org Data Requests,Start or Termination Date Changes,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDaZYAU,CQA-000346,HR-Leave of Absence - Unpaid Requests-FMLA,True,HR,Leave of Absence - Unpaid Requests,FMLA,Tier2 Specialist-LOA Matrix Admin,Tier1 Generalist-HR
+a0cQJ000000aDaaYAE,CQA-000347,HR-Leave of Absence - Unpaid Requests-Other Unpaid Leave,True,HR,Leave of Absence - Unpaid Requests,Other Unpaid Leave,Tier2 Specialist-LOA Matrix Admin,Tier1 Generalist-HR
+a0cQJ000000aDabYAE,CQA-000348,HR-Payroll - Non-HR Central Earnings & Reimbursements Requests-Other Earnings,True,HR,Payroll - Non-HR Central Earnings & Reimbursements Requests,Other Earnings,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDacYAE,CQA-000349,HR-Payroll - Non Cash Earnings Requests-Gift Cards,True,HR,Payroll - Non Cash Earnings Requests,Gift Cards,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDadYAE,CQA-000350,HR-Payroll - Non Cash Earnings Requests-Rewards,True,HR,Payroll - Non Cash Earnings Requests,Rewards,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaeYAE,CQA-000351,HR-Payroll - Termination Final Pay Out Requests-Severance,True,HR,Payroll - Termination Final Pay Out Requests,Severance,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDafYAE,CQA-000352,HR-Payroll - Termination Final Pay Out Requests-Termination Final Payout,True,HR,Payroll - Termination Final Pay Out Requests,Termination Final Payout,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDagYAE,CQA-000353,HR-Leave of Absence - Questions-Leave of Absence,True,HR,Leave of Absence - Questions,Leave of Absence,Tier2 Specialist-LOA Matrix Admin,Tier1 Generalist-HR
+a0cQJ000000aDahYAE,CQA-000354,HR-Time & Attendance - Questions-Time & Attendance,True,HR,Time & Attendance - Questions,Time & Attendance,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDaiYAE,CQA-000355,HR-HRC - Questions-Compensation - Compensation Cycle,True,HR,HRC - Questions,Compensation - Compensation Cycle,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDakYAE,CQA-000357,HR-Payroll - Tax Notice-Tax Notice - Amount Due,True,HR,Payroll - Tax Notice,Tax Notice - Amount Due,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDalYAE,CQA-000358,HR-Payroll - Tax Notice-Tax Notice - Refund,True,HR,Payroll - Tax Notice,Tax Notice - Refund,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDamYAE,CQA-000359,HR-Payroll - Tax Notice-Tax Correspondence - Informational,True,HR,Payroll - Tax Notice,Tax Correspondence - Informational,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDanYAE,CQA-000360,HR-HRC - Questions-Compensation - Other,True,HR,HRC - Questions,Compensation - Other,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDaoYAE,CQA-000361,HR-HRC - Questions-Talent - Performance & Goal Setting,True,HR,HRC - Questions,Talent - Performance & Goal Setting,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDapYAE,CQA-000362,HR-HRC - Questions-Talent - Development,True,HR,HRC - Questions,Talent - Development,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDarYAE,CQA-000364,My Career-Dover Enterprise Learning-LMS Guidance Request,True,My Career,Dover Enterprise Learning,LMS Guidance Request,Tier2 Generalist-LMS,Tier1 Generalist-HR
+a0cQJ000000aDasYAE,CQA-000365,Managers-Reporting & Analytics-Ask HR a Question,True,Managers,Reporting & Analytics,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDatYAE,CQA-000366,Managers-My Employee's Data Change-Data Error Correction - Employment Information,True,Managers,My Employee's Data Change,Data Error Correction - Employment Information,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDauYAE,CQA-000367,Managers-Developing My Team-Ask HR a Question,True,Managers,Developing My Team,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDavYAE,CQA-000368,Managers-Hiring a Team Member-Ask HR a Question,True,Managers,Hiring a Team Member,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDawYAE,CQA-000369,Managers-Onboarding a Team Member-Ask HR a Question,True,Managers,Onboarding a Team Member,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDaxYAE,CQA-000370,Managers-Performance Management-Ask HR a Question,True,Managers,Performance Management,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDayYAE,CQA-000371,Managers-Offboarding an Employee-Ask HR a Question,True,Managers,Offboarding an Employee,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDazYAE,CQA-000372,Managers-Leaving of Absence Management-Ask HR a Question,True,Managers,Leaving of Absence Management,Ask HR a Question,Tier1 Generalist-Benefits,Tier1 Generalist-HR
+a0cQJ000000aDb0YAE,CQA-000373,Managers-My Employee's Data Change-New Data Update,True,Managers,My Employee's Data Change,New Data Update,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDb1YAE,CQA-000374,Managers-My Employee's Data Change-Data Error Correction - Personal Information,True,Managers,My Employee's Data Change,Data Error Correction - Personal Information,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDb2YAE,CQA-000375,MyDover Content & Features-Article Content-New Article Content,True,MyDover Content & Features,Article Content,New Article Content,Tier2 Specialist-Knowledge Management,Tier1 Generalist-HR
+a0cQJ000000aDb3YAE,CQA-000376,MyDover Content & Features-Article Content-Update Existing Article Content,True,MyDover Content & Features,Article Content,Update Existing Article Content,Tier2 Specialist-Knowledge Management,Tier1 Generalist-HR
+a0cQJ000000aDb4YAE,CQA-000377,MyDover Content & Features-Portal Features-Enhancement Request,True,MyDover Content & Features,Portal Features,Enhancement Request,Tier2 Specialist-Knowledge Management,Tier1 Generalist-HR
+a0cQJ000000aDb5YAE,CQA-000378,MyDover Content & Features-Login Issue-Login Issue,True,MyDover Content & Features,Login Issue,Login Issue,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDb6YAE,CQA-000379,My Career-Joining Dover-Ask HR a Question,True,My Career,Joining Dover,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDb7YAE,CQA-000380,My Career-Development-Ask HR a Question,True,My Career,Development,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDb8YAE,CQA-000381,My Career-Dover Enterprise Learning-LEAP Program Questions,True,My Career,Dover Enterprise Learning,LEAP Program Questions,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDb9YAE,CQA-000382,My Career-Dover Enterprise Learning-Online Training Problems,True,My Career,Dover Enterprise Learning,Online Training Problems,Tier2 Generalist-LMS,Tier1 Generalist-HR
+a0cQJ000000aDbAYAU,CQA-000383,My Career-Transfers-Ask HR a Question,True,My Career,Transfers,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbBYAU,CQA-000384,My Career-Leaving Dover-Ask HR a Question,True,My Career,Leaving Dover,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbCYAU,CQA-000385,My Community-Diversity & Inclusion-Ask HR a Question,True,My Community,Diversity & Inclusion,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbDYAU,CQA-000386,My Community-Business Resource Groups-Ask HR a Question,True,My Community,Business Resource Groups,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbEYAU,CQA-000387,My Information-Pay-Check Replacement or Stop Payment,True,My Information,Pay,Check Replacement or Stop Payment,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbFYAU,CQA-000388,My Information-Time Off-Ask HR a Question,True,My Information,Time Off,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbGYAU,CQA-000389,My Information-Time & Attendance-Ask HR a Question,True,My Information,Time & Attendance,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbHYAU,CQA-000390,My Information-Pay-Ask HR a Question,True,My Information,Pay,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbIYAU,CQA-000391,My Information-Personal and Employment Information-Ask HR a Question,True,My Information,Personal and Employment Information,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbJYAU,CQA-000392,My Information-Personal and Employment Information-ADP Password Reset,True,My Information,Personal and Employment Information,ADP Password Reset,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDbKYAU,CQA-000393,My Information-Pay-W2 Correction,True,My Information,Pay,W2 Correction,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbLYAU,CQA-000394,My Information-Pay-W2 Missing/Additional Copy,True,My Information,Pay,W2 Missing/Additional Copy,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbMYAU,CQA-000395,My Information-Personal and Employment Information-New Data Update,True,My Information,Personal and Employment Information,New Data Update,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbNYAU,CQA-000396,My Information-Personal and Employment Information-Data Error Correction - Personal Information,True,My Information,Personal and Employment Information,Data Error Correction - Personal Information,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbOYAU,CQA-000397,My Information-Personal and Employment Information-Data Error Correction - Employment Information,True,My Information,Personal and Employment Information,Data Error Correction - Employment Information,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbPYAU,CQA-000398,My Information-Pay-Direct Deposit Change,True,My Information,Pay,Direct Deposit Change,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbQYAU,CQA-000399,My Information-Time & Attendance-Time Card Correction,True,My Information,Time & Attendance,Time Card Correction,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbRYAU,CQA-000400,My Information-Time Off-Time Off Balance Correction,True,My Information,Time Off,Time Off Balance Correction,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbSYAU,CQA-000401,My Information-Time & Attendance-Attendance Correction,True,My Information,Time & Attendance,Attendance Correction,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbTYAU,CQA-000402,My Information-Leave of Absence-Ask HR a Question,True,My Information,Leave of Absence,Ask HR a Question,Tier1 Generalist-Benefits,Tier1 Generalist-HR
+a0cQJ000000aDbUYAU,CQA-000403,My Information-Pay-W4 Change,True,My Information,Pay,W4 Change,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbVYAU,CQA-000404,My Rewards-Compensation & Rewards-Ask HR a Question,True,My Rewards,Compensation & Rewards,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbWYAU,CQA-000405,My Rewards-Executive Compensation-Ask HR a Question,True,My Rewards,Executive Compensation,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbXYAU,CQA-000406,My Rewards-Performance Management-Ask HR a Question,True,My Rewards,Performance Management,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbYYAU,CQA-000407,My Wellbeing-Retirement & Financial Wellbeing-Ask HR a Question,True,My Wellbeing,Retirement & Financial Wellbeing,Ask HR a Question,Tier1 Generalist-HR,Tier1 Generalist-Benefits
+a0cQJ000000aDbZYAU,CQA-000408,My Wellbeing-Health & Wellness Benefits-Ask a H&W Question,True,My Wellbeing,Health & Wellness Benefits,Ask a H&W Question,Tier1 Generalist-Benefits,Tier1 Generalist-Benefits
+a0cQJ000000aDbaYAE,CQA-000409,My Wellbeing-Health & Wellness Benefits-Life Event,True,My Wellbeing,Health & Wellness Benefits,Life Event,Tier1 Generalist-Benefits,Tier1 Generalist-Benefits
+a0cQJ000000aDbbYAE,CQA-000410,My Wellbeing-Health & Wellness Benefits-Open Enrollment,True,My Wellbeing,Health & Wellness Benefits,Open Enrollment,Tier1 Generalist-Benefits,Tier1 Generalist-Benefits
+a0cQJ000000aDbcYAE,CQA-000411,My Career-Dover Enterprise Learning-Report Requests,True,My Career,Dover Enterprise Learning,Report Requests,Tier2 Generalist-LMS,Tier1 Generalist-HR
+a0cQJ000000aDbdYAE,CQA-000412,System Administration-Integrations Requests-Integrations - ADP GV Payroll,True,System Administration,Integrations Requests,Integrations - ADP GV Payroll,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbeYAE,CQA-000413,System Administration-Reporting Requests-Reporting - Other,True,System Administration,Reporting Requests,Reporting - Other,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbfYAE,CQA-000414,System Administration-System Access Requests-System Access - ADP GV Payroll,True,System Administration,System Access Requests,System Access - ADP GV Payroll,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDbgYAE,CQA-000415,System Administration-System Access Requests-System Access - ADP Ipay,True,System Administration,System Access Requests,System Access - ADP Ipay,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000000aDbhYAE,CQA-000416,System Administration-System Access Requests-System Access - eTime,True,System Administration,System Access Requests,System Access - eTime,Tier 2 Specialist - eTime,Tier1 Generalist-HR
+a0cQJ000000aDbiYAE,CQA-000417,System Administration-System Access Requests-System Access - HR Central,True,System Administration,System Access Requests,System Access - HR Central,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbjYAE,CQA-000418,System Administration-System Access Requests-System Access - HR Salesforce,True,System Administration,System Access Requests,System Access - HR Salesforce,Tier 2 Specialist - HR Salesforce,Tier1 Generalist-HR
+a0cQJ000000aDbkYAE,CQA-000419,System Administration-System Configuration Requests-System Configuration - ADP GV Payroll,True,System Administration,System Configuration Requests,System Configuration - ADP GV Payroll,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDblYAE,CQA-000420,System Administration-System Configuration Requests-System Configuration - eTime,True,System Administration,System Configuration Requests,System Configuration - eTime,Tier 2 Specialist - eTime,Tier1 Generalist-HR
+a0cQJ000000aDbmYAE,CQA-000421,System Administration-System Configuration Requests-System Configuration - HR Central,True,System Administration,System Configuration Requests,System Configuration - HR Central,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbnYAE,CQA-000422,System Administration-System Configuration Requests-System Configuration - HR Salesforce,True,System Administration,System Configuration Requests,System Configuration - HR Salesforce,Tier 2 Specialist - HR Salesforce,Tier1 Generalist-HR
+a0cQJ000000aDboYAE,CQA-000423,System Administration-Integrations Requests-Integrations - eTime,True,System Administration,Integrations Requests,Integrations - eTime,Tier 2 Specialist - eTime,Tier1 Generalist-HR
+a0cQJ000000aDbpYAE,CQA-000424,System Administration-System Configuration Requests-System Configuration - Other,True,System Administration,System Configuration Requests,System Configuration - Other,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbqYAE,CQA-000425,System Administration-System Administration Questions-System Administration - Integrations,True,System Administration,System Administration Questions,System Administration - Integrations,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbrYAE,CQA-000426,System Administration-System Administration Questions-System Administration - Reporting,True,System Administration,System Administration Questions,System Administration - Reporting,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbsYAE,CQA-000427,System Administration-System Administration Questions-System Administration - System Access,True,System Administration,System Administration Questions,System Administration - System Access,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbtYAE,CQA-000428,System Administration-System Administration Questions-System Administration - System Configuration,True,System Administration,System Administration Questions,System Administration - System Configuration,Tier1 Generalist-HR,Tier1 Generalist-HR
+a0cQJ000000aDbuYAE,CQA-000429,System Administration-Integrations Requests-Integrations - HR Central,True,System Administration,Integrations Requests,Integrations - HR Central,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbvYAE,CQA-000430,System Administration-Integrations Requests-Integrations - HR Salesforce,True,System Administration,Integrations Requests,Integrations - HR Salesforce,Tier 2 Specialist - HR Salesforce,Tier1 Generalist-HR
+a0cQJ000000aDbwYAE,CQA-000431,System Administration-Integrations Requests-Integrations - Other,True,System Administration,Integrations Requests,Integrations - Other,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbxYAE,CQA-000432,System Administration-Reporting Requests-Reporting - ADP GV Payroll,True,System Administration,Reporting Requests,Reporting - ADP GV Payroll,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDbyYAE,CQA-000433,System Administration-Reporting Requests-Reporting - eTime,True,System Administration,Reporting Requests,Reporting - eTime,Tier 2 Specialist - eTime,Tier1 Generalist-HR
+a0cQJ000000aDbzYAE,CQA-000434,System Administration-Reporting Requests-Reporting - HR Central,True,System Administration,Reporting Requests,Reporting - HR Central,Tier2 Specialist-HR Ops Data Admin & AMS,Tier1 Generalist-HR
+a0cQJ000000aDc0YAE,CQA-000435,System Administration-Reporting Requests-Reporting - HR Salesforce,True,System Administration,Reporting Requests,Reporting - HR Salesforce,Tier 2 Specialist - HR Salesforce,Tier1 Generalist-HR
+a0cQJ000000aDc1YAE,CQA-000436,My Career-Dover Enterprise Learning-Un-assign,True,My Career,Dover Enterprise Learning,Un-assign,Tier2 Generalist-LMS,Tier1 Generalist-HR
+a0cQJ0000019oUrYAI,CQA-000451,My Career-Dover Enterprise Learning-Assign,True,My Career,Dover Enterprise Learning,Assign,Tier2 Generalist-LMS,Tier1 Generalist-HR
+a0cQJ000001odYfYAI,CQA-000453,HR-Payroll - Questions-Tax Notice - Correspondence,True,HR,Payroll - Questions,Correspondence,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ0000022j7zYAA,CQA-000454,System Administration-System Configuration Requests-Merrill,True,System Administration,System Administration Questions,System Administration - Merrill,Comp LTIP Merrill,Tier1 Generalist-HR
+a0cQJ000002QFOrYAO,CQA-000456,HR-Payroll - Tax Notice-Tax Rate Notice -SUI/Unemployment,True,HR,Payroll - Tax Notice,Tax Rate Notice -SUI/Unemployment,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000002QFQTYA4,CQA-000457,HR-Payroll - Deductions Requests-Overpayment Recovery,True,HR,Payroll - Deductions Requests,Overpayment Recovery,Tier2 Specialist-HR Ops Payroll,Tier1 Generalist-HR
+a0cQJ000002Y7dpYAC,CQA-000458,My Wellbeing-Health & Wellness Benefits-Confirmation of Benefits,True,My Wellbeing,Health & Wellness Benefits,Confirmation of Benefits,Tier2 Specialist-H&W Benefits,Tier1 Generalist-Benefits
+a0cQJ000002Y7fRYAS,CQA-000459,My Wellbeing-Health & Wellness Benefits-Medical Support Order,True,My Wellbeing,Health & Wellness Benefits,Medical Support Order,Tier2 Specialist-H&W Benefits,Tier1 Generalist-Benefits
+a0cQJ000002iaZjYAI,CQA-000460,HR-HRC - Employee/Requisitions/Org Data Requests-HRBP Change,True,HR,HRC - Employee/Requisitions/Org Data Requests,Employee Data Change - HRBP,Tier1 Generalist-HR,Tier1 Generalist-HR
